@@ -56,7 +56,8 @@ This tool allows you to scrape public profile information from Instagram, such a
 
 ## 🛡️ Disclaimer
 
-    ⚠️ Use at Your Own Risk: This tool interacts with Instagram's API, which may violate Instagram's terms of service. Use it responsibly and avoid excessive requests to prevent your account from being flagged or banned.
+    ⚠️ Use at Your Own Risk: This tool interacts with Instagram's API, which may violate Instagram's terms of service. 
+    Use it responsibly and avoid excessive requests to prevent your account from being flagged or banned.
 
 ## 💖 Support the Developer
 
